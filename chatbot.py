@@ -42,7 +42,7 @@ def response(user_response):
 
 # Define a function to generate responses based on user input
 def chatbot():
-    print("Hi! I'm AI. How can I help you today?")
+    print("Hi! I'm Eric-SAI. How can I help you today?")
     while True:
         user_response = input()
         if user_response.lower() == 'bye':
